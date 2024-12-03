@@ -5,3 +5,5 @@ by Ironboy, Node Hill
 * Run the tests/feature-files with **npm test**.
 
 (There is a small feature with one only one scenario written and step-definitions)
+
+En ny kommentar om GitHubs förträfflighet.
